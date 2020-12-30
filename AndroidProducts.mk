@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/omni_dandelion.mk
+   $(LOCAL_DIR)/omni_cattail.mk
 
-COMMON_LUNCH_CHOICES := omni_dandelion-eng
+COMMON_LUNCH_CHOICES := omni_cattail-eng
